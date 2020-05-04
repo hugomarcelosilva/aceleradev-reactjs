@@ -9,7 +9,7 @@
 - [02 - HTML5 e CSS3, Atomic Design e CSS Modular](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-12)
 - [03 - Javascript I, Fundamentos da Linguagem](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/nodejs-0)
 - [04 - Javascript II, Paradigmas e Testes](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/nodejs-12)
-- [05 - React I, Fundamentos e React OO]()
+- [05 - React I, Fundamentos e React OO](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-13)
 - [06 - React II, Fundamentos e React OO]()
 - [07 - React Hooks, React Funcional]()
 - [08 - Redux, Gerenciamento de Estado]()
