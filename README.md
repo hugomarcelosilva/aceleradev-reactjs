@@ -12,7 +12,7 @@
 - [05 - React I, Fundamentos e React OO](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-13)
 - [06 - React II, Fundamentos e React OO](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-14)
 - [07 - React Hooks, React Funcional](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-15)
-- [08 - Redux, Gerenciamento de Estado]()
+- [08 - Redux, Gerenciamento de Estado](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-16)
 - [09 - Redux, Build e Deploy]()
 - [10 - Demo Day]()
 
