@@ -14,7 +14,7 @@
 - [07 - React Hooks, React Funcional](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-15)
 - [08 - Redux, Gerenciamento de Estado](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-16)
 - [09 - Redux, Build e Deploy](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/react-17)
-- [10 - Demo Day]()
+- [10 - Demo Day](https://github.com/hugo-marcelo/aceleradev-reactjs/tree/master/fashionista)
 
 ---
 
